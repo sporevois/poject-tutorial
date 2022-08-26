@@ -1,0 +1,1 @@
+import './js/get-main-card-data'
